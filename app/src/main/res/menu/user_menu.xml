@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+        <item
+            android:id="@+id/user_bar_words"
+            android:icon="@mipmap/ic_words"
+            android:title="@string/words_title"
+            app:showAsAction="always"
+            android:background="@drawable/normal_ripple"/>
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/user_bar_study"
+            android:icon="@mipmap/ic_study"
+            android:title="@string/education_title"
+            app:showAsAction="always"
+            android:background="@drawable/normal_ripple"/>
+    </group>
+</menu>

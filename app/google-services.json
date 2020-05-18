@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "464255874010",
+    "firebase_url": "https://orthoepy2.firebaseio.com",
+    "project_id": "orthoepy2",
+    "storage_bucket": "orthoepy2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464255874010:android:53e1bdb9b071f5ddd4c6e3",
+        "android_client_info": {
+          "package_name": "com.example.orthoepy2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464255874010-8oq6oevpo2l4dhk001qjnikf7ftpv5h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orthoepy2",
+            "certificate_hash": "d0ee4103dcba9aeb84ef28a21a9e819c6067c650"
+          }
+        },
+        {
+          "client_id": "464255874010-40j4aio806sr3oopmulccti5sji90mqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dwH3BdcDterZRrRV1IP4-lbEhhV_ABE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464255874010-40j4aio806sr3oopmulccti5sji90mqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

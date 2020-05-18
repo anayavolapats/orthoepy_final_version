@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">orthoepy2</string>
+    <string name="welcome">Добро пожаловать в orthoepy!</string>
+    <string name="what_app_is_it">Лучший помощник в изучении правил орфоэпии русского языка. Начните пользование прямо сейчас, или зарегистрируйтесь</string>
+    <string name="register_text">Давайте знакомиться!</string>
+    <string name="name_label">Имя</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Пароль</string>
+    <string name="register_button_text">Зарегистрироваться</string>
+    <string name="words_title">Слова</string>
+    <string name="settings_title">Настройки</string>
+    <string name="education_title">Обучение</string>
+    <string name="user_title">Кабинет</string>
+    <string name="search_title">Поиск</string>
+    <string name="main_navigation_transition">MainNavigationView</string>
+    <string name="bottom_app_bar_transition">BAB transition</string>
+    <string name="floating_action_button_transition">FAB transition</string>
+    <string name="start_education">Начать обучение?</string>
+    <string name="start_education_message">Запомни правила постановки ударений, выбирая правильный вариант!</string>
+    <string name="start">Вперёд!</string>
+    <string name="cancel">Не в этот раз</string>
+    <string name="correct_fs">correct accent</string>
+    <string name="my_favourite_5_words">Мои любимые слова:</string>
+    <string name="new_password">Хочу поменять пароль!</string>
+    <string name="what_word_is_it">Что это значит?</string>
+    <string name="go_to_html">Не знаешь, что выбрать?</string>
+    <string name="wanna_change_color">Разнообразим фон!</string>
+    <string name="hate_black">Если запоминать правила постановки ударений на чёрном фоне слишком скучно, может стоит выбрать что-то другое?</string>
+    <string name="html_hint">HTML</string>
+    <string name="what_to_do">Введи html код и выбери любой цвет, который тебе нравится!</string>
+    <string name="hashtag">#</string>
+    <string name="change">Поменять</string>
+    <string name="go_here">Тебе сюда</string>
+    <string name="black_rb">Чёрный</string>
+    <string name="pink_rb">Розовый</string>
+    <string name="blue_rb">Синий</string>
+    <string name="yellow_rb">Жёлтый</string>
+    <string name="white_rb">Белый</string>
+    <string name="chande_pass_button">Поменять!</string>
+    <string-array name="dictionary_words">
+        <item>началА</item>
+        <item>кремЕнь</item>
+        <item>вероисповЕдание</item>
+        <item>бухгАлтеров</item>
+        <item>бАнты</item>
+        <item>еретИк</item>
+        <item>некролОг</item>
+        <item>в бАнтах</item>
+        <item>налитА</item>
+        <item>дефИс [дэ]</item>
+        <item>кУхонный</item>
+        <item>пломбировАть</item>
+        <item>исчЕрпать</item>
+        <item>сверлИт</item>
+        <item>слИвовый</item>
+        <item>премировАть</item>
+        <item>щавЕль</item>
+        <item>водопровОд</item>
+        <item>балУясь</item>
+        <item>запертА</item>
+        <item>квартАл</item>
+        <item>углубИть</item>
+        <item>закУпорить</item>
+        <item>прибЫвший</item>
+        <item>собралИсь</item>
+        <item>молЯщий</item>
+        <item>граждАнство</item>
+        <item>включИм</item>
+        <item>нефтепровОд</item>
+        <item>срЕдства</item>
+        <item>договорЁнность</item>
+        <item>клАла</item>
+        <item>начАв</item>
+        <item>начАвшись</item>
+        <item>избалОванный</item>
+        <item>создалА</item>
+        <item>договОры</item>
+        <item>шАрфы</item>
+        <item>одолжИт</item>
+        <item>мусоропровОд</item>
+        <item>началсЯ</item>
+        <item>столЯр</item>
+        <item>аэропОрты</item>
+        <item>плодоносИть</item>
+        <item>понЯвший</item>
+        <item>корЫсть</item>
+        <item>освЕдомиться</item>
+        <item>оптОвый</item>
+        <item>бОроду</item>
+        <item>щЕбень</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DictionaryActivity"
+    android:id="@+id/dic_screen">
+
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/coordinatorLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.google.android.material.bottomappbar.BottomAppBar
+            android:id="@+id/bar"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="bottom"
+            android:transitionName="@string/bottom_app_bar_transition"
+            app:backgroundTint="@color/PrimaryPink"
+            app:fabAlignmentMode="end"
+            app:hideOnScroll="true"
+            app:layout_scrollFlags="scroll|enterAlways|snap"
+            app:menu="@menu/dictionary_menu" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_dic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/PrimaryYellow"
+            android:src="@drawable/ic_search_black_24dp"
+            android:transitionName="@string/floating_action_button_transition"
+            app:backgroundTint="@color/PrimaryYellow"
+            app:layout_anchor="@id/bar"
+            app:layout_constraintBottom_toBottomOf="@+id/bar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/bar"
+            app:rippleColor="@color/material_on_primary_emphasis_high_type" />
+
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
