@@ -1,5 +1,5 @@
 # Welcome!
-My name is Yana, here you can find information about my Android app 'Orthoepy'. Here vk.com you can see a short video of how it works!
+My name is Yana, here you can find information about my Android app 'Orthoepy'. Here https://drive.google.com/file/d/172hRjj17Y5zClw2zK5S6VRO0A2XRxLYM/view?usp=sharing you can see a short video of how it works!
 # How can you use this app?
 Orthoepy combines a dictionary and a mini-game with a choice of the right answer from the two proposed and an opportunity to learn more about this word. Create an account to save your progress, or use it without authentication to quickly jump to word search in the dictionary!
 # For what purposes is it developed?
